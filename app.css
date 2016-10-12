@@ -1,0 +1,28 @@
+* {
+	font-family: "Microsoft JhengHei", "DFKai-sb";
+}
+
+.tittle {
+	font-size: 30px;
+	color: red;
+	padding: 20px;
+}
+
+.content {
+	font-size: 16px;
+	color: blue;
+	padding: 20px;
+}
+
+  
+a:link {
+		color: black }
+		
+a:visited {
+			color: green }
+			
+a:hover {
+		 color: red }
+		 
+a:active {
+		  color: black }
